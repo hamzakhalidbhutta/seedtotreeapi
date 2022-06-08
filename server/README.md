@@ -1,4 +1,4 @@
-# HOLIDAZE - HOTEL BOOKING SITE
+# SEED TO TREE - HOTEL BOOKING SITE
 
 This readme file will give you the tools you need to complete the project and explains what the different files are and how to use them.
 
